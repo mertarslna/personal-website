@@ -28,11 +28,11 @@
 
 1. Bu repoyu klonlayın:
    ```bash
-   git clone https://github.com/mertarslna/kendi-repo-adiniz.git
+   git clone https://mertarslna.github.io/personal-website.git
    ```
 2. Klasöre girin:
    ```bash
-   cd kendi-repo-adiniz
+   cd personal-website
    ```
 3. Eğer SASS dosyalarını düzenleyecekseniz:
    ```bash
