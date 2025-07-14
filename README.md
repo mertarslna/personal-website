@@ -2,7 +2,7 @@
 
 ## A Blazing Fast Multipage Portfolio Template for Developers 🚀
 
-## [Demo Link](https://mertarslna.github.io/web-projects/) 🔗
+## [Demo Link]([https://mertarslna.github.io/web-projects/](https://mertarslna.github.io/personal-website/)) 🔗
 
 <div align="center">
   <img src="https://i.postimg.cc/CxZXqhWM/ezgif-com-video-to-gif-1.gif" alt="Dopefolio Demo" width="100%" />
