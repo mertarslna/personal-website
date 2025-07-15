@@ -1,7 +1,7 @@
 # Mert Arslan - Kişisel Portföy
 
 ## Canlı Demo
-[Portföyümü buradan görüntüleyebilirsiniz.](https://mertarslna.github.io/personal-website/)
+[Portföyümü buradan görüntüleyebilirsiniz.](https://github.com/mertarslna/kendi-repo-adiniz/)
 
 ---
 
@@ -28,11 +28,11 @@
 
 1. Bu repoyu klonlayın:
    ```bash
-   git clone https://mertarslna.github.io/personal-website.git
+   git clone https://github.com/mertarslna/kendi-repo-adiniz.git
    ```
 2. Klasöre girin:
    ```bash
-   cd personal-website
+   cd kendi-repo-adiniz
    ```
 3. Eğer SASS dosyalarını düzenleyecekseniz:
    ```bash
