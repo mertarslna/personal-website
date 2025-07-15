@@ -1,7 +1,7 @@
 # Mert Arslan - Kişisel Portföy
 
 ## Canlı Demo
-[Portföyümü buradan görüntüleyebilirsiniz.](https://github.com/mertarslna/kendi-repo-adiniz/)
+[Portföyümü buradan görüntüleyebilirsiniz.](https://mertarslna.github.io/personal-website/)
 
 ---
 
